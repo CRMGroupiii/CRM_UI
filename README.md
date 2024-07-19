@@ -11,19 +11,23 @@ Give an overview of the CRM UI architecture. This section should include:
 The goals of the UI design
 The main features of the CRM system
 The key user roles and their requirements
+
 3. Component Architecture
+   
 High-Level Architecture
-Include a high-level diagram of the UI architecture. This diagram should show the main components and their interactions.
 
-Core Components
-
-Describe each core component of the UI. For example:
-Navigation Bar: Provides access to different sections of the CRM.
-Dashboard: Displays key metrics and summaries.
-Customer Profiles: Shows detailed information about customers.
-Reporting: Allows users to generate and view reports.
-Settings: Enables configuration of the system.
+  Include a high-level diagram of the UI architecture. This diagram should show the main components and their interactions.
+  
+  Core Components
+  
+  Describe each core component of the UI. For example:
+  Navigation Bar: Provides access to different sections of the CRM.
+  Dashboard: Displays key metrics and summaries.
+  Customer Profiles: Shows detailed information about customers.
+  Reporting: Allows users to generate and view reports.
+  Settings: Enables configuration of the system.
 4. User Interface Elements
+
 Navigation
 Describe the navigation structure, including the main menu, submenus, and any contextual menus.
 
