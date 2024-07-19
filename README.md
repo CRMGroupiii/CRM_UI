@@ -1,9 +1,11 @@
 # CRM_UI
 
 1. Introduction
+
 Provide an introduction to the CRM system, explaining its purpose and the importance of a well-designed UI. Mention the target audience for the documentation, such as developers, designers, and project managers.
 
 2. Overview
+
 Give an overview of the CRM UI architecture. This section should include:
 
 The goals of the UI design
@@ -14,8 +16,8 @@ High-Level Architecture
 Include a high-level diagram of the UI architecture. This diagram should show the main components and their interactions.
 
 Core Components
-Describe each core component of the UI. For example:
 
+Describe each core component of the UI. For example:
 Navigation Bar: Provides access to different sections of the CRM.
 Dashboard: Displays key metrics and summaries.
 Customer Profiles: Shows detailed information about customers.
